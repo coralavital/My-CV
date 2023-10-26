@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" width="308.7612359841165" height="304.915625" viewBox="0 0 1000 444">
+	<g transform="matrix(1,0,0,1,-0.6060606060606233,0.29410063874436787)">
+		<svg viewBox="0 0 396 176" data-background-color="#ffffff" preserveAspectRatio="xMidYMid meet" height="444" width="1000" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+			<g id="tight-bounds" transform="matrix(1,0,0,1,0.2400000000000091,-0.11658043337614288)">
+				<svg viewBox="0 0 395.52 176.23316086675229" height="176.23316086675229" width="395.52">
+					<g>
+						<svg viewBox="0 0 554.7908436705882 247.2" height="176.23316086675229" width="395.52">
+							<g>
+								<svg viewBox="0 0 306.81882352941176 247.2" height="247.2" width="306.81882352941176">
+									<g id="textblocktransform">
+										<svg viewBox="0 0 306.81882352941176 247.2" height="247.2" width="306.81882352941176" id="textblock">
+											<g>
+												<svg viewBox="0 0 306.81882352941176 247.2" height="247.2" width="306.81882352941176">
+													<g transform="matrix(1,0,0,1,0,0)">
+														<svg width="306.81882352941176" viewBox="4.25 -33.25 42.20000076293945 34" height="247.2" data-palette-color="#7c4e29">
+															<path d="M17.25-6.25L17.25-6.25 17.25-9 20.75-9 20.75-6.25Q20.75-2.9 18.7-1.07 16.65 0.75 12.55 0.75 8.45 0.75 6.35-1.07 4.25-2.9 4.25-6.25L4.25-6.25 4.25-26.25Q4.25-29.6 6.3-31.43 8.35-33.25 12.45-33.25 16.55-33.25 18.65-31.43 20.75-29.6 20.75-26.25L20.75-26.25 20.75-21.5 17.25-21.5 17.25-26.25Q17.25-30.25 12.5-30.25 7.75-30.25 7.75-26.25L7.75-26.25 7.75-6.25Q7.75-2.25 12.5-2.25 17.25-2.25 17.25-6.25ZM26.5 0L33.85-32.5 39.1-32.5 46.45 0 42.95 0 41.25-7.5 31.7-7.5 30 0 26.5 0ZM40.55-10.5L36.45-28.6 32.35-10.5 40.55-10.5Z" opacity="1" transform="matrix(1,0,0,1,0,0)" fill="#7c4e29" class="wordmark-text-0" data-fill-palette-color="primary" id="text-0">
+															</path>
+														</svg>
+													</g>
+												</svg>
+											</g>
+										</svg>
+									</g>
+								</svg>
+							</g>
+							<g transform="matrix(1,0,0,1,365.1768107294117,28.792983529411757)">
+								<svg viewBox="0 0 189.61403294117648 189.61403294117648" height="189.61403294117648" width="189.61403294117648">
+									<g data-palette-color="#7c4e29">
+										<rect width="51.827835670588236" height="189.61403294117648" fill="#7c4e29" stroke="transparent" data-fill-palette-color="accent" x="0" fill-opacity="1">
+										</rect>
+										<rect width="51.827835670588236" height="189.61403294117648" fill="#7c4e29" stroke="transparent" data-fill-palette-color="accent" x="63.20467764705882" fill-opacity="0.75">
+										</rect>
+										<rect width="51.827835670588236" height="189.61403294117648" fill="#7c4e29" stroke="transparent" data-fill-palette-color="accent" x="126.40935529411765" fill-opacity="0.5">
+										</rect>
+									</g>
+								</svg>
+							</g>
+						</svg>
+					</g>
+					<defs>
+					</defs>
+				</svg>
+				<rect width="395.52" height="176.23316086675229" fill="none" stroke="none" visibility="hidden">
+				</rect>
+			</g>
+		</svg>
+	</g>
+</svg>
