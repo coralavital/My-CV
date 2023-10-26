@@ -1,24 +1,10 @@
 import {
-  mobile,
   backend,
   creator,
   web,
-  javascript,
-  typescript,
-  youtube,
-  reactjs,
-  redux,
-  tailwind,
-  nodejs,
-  mongodb,
-  firebase,
-  git,
-  figma,
-  docker,
+  mobile,
   crud,
   petsnanny,
-  threejs,
-  dotnet,
   fridgeit
 } from "../assets";
 
@@ -53,83 +39,6 @@ const services = [
   {
     title: "Content Creator",
     icon: creator,
-  },
-];
-
-const technologies = [
-  {
-    name: "Dotnet",
-    icon: dotnet,
-  },
-  {
-    name: "JavaScript",
-    icon: javascript,
-  },
-  {
-    name: "TypeScript",
-    icon: typescript,
-  },
-  {
-    name: "React JS",
-    icon: reactjs,
-  },
-  {
-    name: "Redux Toolkit",
-    icon: redux,
-  },
-  {
-    name: "Tailwind CSS",
-    icon: tailwind,
-  },
-  {
-    name: "Node JS",
-    icon: nodejs,
-  },
-  {
-    name: "MongoDB",
-    icon: mongodb,
-  },
-  {
-    name: "Firebase",
-    icon: firebase,
-  },
-  {
-    name: "Three JS",
-    icon: threejs,
-  },
-  {
-    name: "git",
-    icon: git,
-  },
-  {
-    name: "figma",
-    icon: figma,
-  },
-  {
-    name: "docker",
-    icon: docker,
-  },
-];
-
-const experiences = [
-  {
-    title: "",
-    company_name: "",
-    icon: "",
-    iconBg: "",
-    date: "",
-    points: [],
-  },
-];
-
-const testimonials = [
-  {
-    testimonial:
-      "",
-    name: "",
-    designation: "",
-    company: "",
-    image: "",
   },
 ];
 
@@ -203,4 +112,4 @@ const projects = [
   },
 ];
 
-export { services, technologies, experiences, testimonials, projects };
+export { services, projects };
