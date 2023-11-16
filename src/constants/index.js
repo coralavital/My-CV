@@ -87,7 +87,7 @@ const projects = [
       },
     ],
     image: crud,
-    source_code_link: "https://github.com/coralavital/CRUD_Application",
+    source_code_link: "https://github.com/coralavital/User-managment-app",
   },
   {
     name: "Pets Nanny",
